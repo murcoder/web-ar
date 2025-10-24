@@ -1,0 +1,9 @@
+{
+  "title": "WebAR",
+  "scenes": {
+    "example": {
+      "title": "Example Scene",
+      "description": "This is only an example scene. Create you own 3D-Content and integrate it into the AR App."
+    }
+  }
+}
