@@ -1,7 +1,4 @@
-<div style="display: flex; flex-direction: column; align-items: center; gap: 0.5rem;">
-  <img src="./public/icons/logo_black.svg" alt="logo_black" width="150" />
-  <h1 style="margin: 0; font-size: 2rem; text-align: center;">Boilerplate for WebAR</h1>
-</div>
+# Boilerplate for WebAR
 
 ![demo](public/img/screen_recording.gif)
 
