@@ -17,7 +17,7 @@ With this boilerplate, you can quickly build browser-based AR scenes — load 3D
 |--------------------------------------------------------------------------|---------|------------------------------------------------------------------------|
 | [React](https://reactjs.org/)                                            | 18.2.0  | UI library for building reactive components                            |
 | [ThreeJS](https://threejs.org/)                                          | 0.159   | 3D graphics library for WebGL                                          |
-| [MindAR](https://www.npmjs.com/package/@zappar/zappar-react-three-fiber) | 1.2.5   | An open-source WebAR library supporting Image, Face and World tracking |
+| [MindAR](https://hiukim.github.io/mind-ar-js-doc/) | 1.2.5   | An open-source WebAR library supporting Image, Face and World tracking |
 | [Vite](https://vitejs.dev/)                                              | 7.1.15  | Fast frontend build tool and development server                        |
 | [Tailwind CSS](https://tailwindcss.com/)                                 | 4.1.11  | Utility-first CSS framework for styling                                |
 | [Shadcn/UI](https://ui.shadcn.com/)                                      | 2.10.0  | Optional UI component library built on Tailwind                        |
