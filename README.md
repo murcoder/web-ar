@@ -3,6 +3,8 @@
   <h1 style="margin: 0; font-size: 2rem; text-align: center;">Boilerplate for WebAR</h1>
 </div>
 
+![demo](public/img/screen_recording.gif)
+
 A boilerplate to integrate Augmented Reality into a React application using [MindAR](https://github.com/hiukim/mind-ar-js-react).
 This setup makes it easy to combine WebAR experiences with dynamic content powered by the headless CMS [Storyblok](https://www.storyblok.com/).
 
@@ -31,9 +33,9 @@ Generate your own multi-target images with the [MindAR Tool](https://hiukim.gith
 Check out, [how to choose a good target image for tracking](https://www.mindar.org/how-to-choose-a-good-target-image-for-tracking-in-ar-part-3/).
 <br><br>
 Use this images to test the AR functionality. You can print them out or display them on another screen.
-![Mindar_Logo](./public/img/mindar.png)
+![Cogs](./public/img/cogs.png)
 <br><br>
-![Zappar Logo](./public/img/zappar.png)
+![Mindar_Logo](./public/img/mindar.png)
 
 # Architecture
 | Component          | Responsibility                                            |
