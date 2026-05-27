@@ -2,7 +2,7 @@
 
 ![demo](public/img/screen_recording.gif)
 
---> [LIVE DEMO](https://web-ar-react.vercel.app/)
+--> [LIVE DEMO](https://web-ar-boilerplate.apps.christophmurauer.com)
 
 A boilerplate to integrate Augmented Reality into a React application using [MindAR](https://github.com/hiukim/mind-ar-js-react).
 This setup makes it easy to combine WebAR experiences with dynamic content powered by the headless CMS [Storyblok](https://www.storyblok.com/).
